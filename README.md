@@ -1,2 +1,1 @@
-# pubs
-Publications
+This repository contains my publications.
